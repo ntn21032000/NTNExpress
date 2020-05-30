@@ -15,7 +15,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>Trang Chủ</title>
+		<title>NTNExpress</title>
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 		<!--
 		CSS
@@ -40,11 +40,11 @@
 
 		<div class="site-main-container">
 
-			<!-- START TOP POST -->
+			<!-- START HOT POST -->
 			<?php
 				include 'layoutcontent/toppost.php';
 			?>
-			<!--END TOP POST -->
+			<!--END HOT POST -->
 
 			<section class="latest-post-area pb-120">
 
